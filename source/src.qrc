@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/text">
+        <file>src/subway_info.txt</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>src/zoom_in.svg</file>
+        <file>src/zoom_out.svg</file>
+        <file>src/transfer.svg</file>
+        <file>src/subway.svg</file>
+    </qresource>
+</RCC>
